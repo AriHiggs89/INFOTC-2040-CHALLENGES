@@ -1,9 +1,5 @@
 # gradebook.py
 
-# Copyright Dale Musser, 2017-2020
-# This program is provided with the materials for an educational course and
-# are meant for personal use by the student while participating in the course.
-
 # Display the average of each student's grade.
 # Display the average for each assignment.
 
